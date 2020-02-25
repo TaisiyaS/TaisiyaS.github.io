@@ -1,3 +1,5 @@
 # TaisiyaS.github.io
-# [Todo](https://TaisiyaS.github.io/todoList-js/)
+# [TodoJS](https://TaisiyaS.github.io/todoList-js/)
 Simple todoList JS
+# [TodoReact](https://TaisiyaS.github.io/todolist-react/)
+Simple todolist React
