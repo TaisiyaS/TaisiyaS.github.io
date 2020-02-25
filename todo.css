@@ -1,0 +1,25 @@
+li {
+    list-style-type: none; /* Убираем маркеры */
+   }
+label.complete {
+    text-decoration: line-through;
+}
+
+.checkbox {
+    border: none;
+    background: none;
+    padding: 0px 3px;
+}
+
+.material-icons.md-13 {
+    font-size: 13px; 
+}
+
+input {
+    font-size: 14px;
+    text-align: -webkit-match-parent;
+}
+
+label {
+
+}
